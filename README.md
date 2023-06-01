@@ -2,7 +2,7 @@
 
 A Sample application for implementing edge-to-edge full-screen immersive view in Android.
 
-<img src="/previews/running.gif" height="400">
+<img src="/previews/demo.gif" height="400">
 
 
 ### How to Implement?
