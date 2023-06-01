@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FullScreen</string>
+    <string name="image_jpg">image.jpg</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="properties">properties</string>
+</resources>
